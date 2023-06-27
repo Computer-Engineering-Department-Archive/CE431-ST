@@ -1,0 +1,48 @@
+* Starting client
+* Connecting to master process on port 21702
+* Analyzing classpath: 
+  - /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/target/classes
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/charsets.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/cldrdata.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/dnsns.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/jaccess.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/localedata.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/nashorn.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/sunec.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/zipfs.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/jce.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/jfr.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/jsse.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/management-agent.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/resources.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/rt.jar
+  - /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/target/test-classes
+  - /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/target/classes
+  - /Users/Bardia/.m2/repository/junit/junit/4.12/junit-4.12.jar
+  - /Users/Bardia/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+* Finished analyzing classpath
+* Generating tests for class Calculator
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+* Loaded 21 tests from /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/.evosuite/evosuite-seeds/Calculator.seed
+* Total number of test goals: 
+  - Line 25
+  - Branch 35
+  - Exception 0
+  - MutationFactory 62
+  - Output 0
+  - Method 2
+  - MethodNoException 2
+  - CBranchFitnessFactory 35
+* Using seed 1684140103786
+* Starting evolution

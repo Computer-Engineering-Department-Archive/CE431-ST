@@ -1,0 +1,49 @@
+* Starting client
+* Connecting to master process on port 19231
+* Analyzing classpath: 
+  - /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/target/classes
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/charsets.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/cldrdata.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/dnsns.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/jaccess.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/localedata.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/nashorn.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/sunec.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/ext/zipfs.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/jce.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/jfr.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/jsse.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/management-agent.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/resources.jar
+  - /Library/Java/JavaVirtualMachines/temurin-8.jdk/Contents/Home/jre/lib/rt.jar
+  - /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/target/test-classes
+  - /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/target/classes
+  - /Users/Bardia/.m2/repository/junit/junit/4.12/junit-4.12.jar
+  - /Users/Bardia/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+* Finished analyzing classpath
+* Generating tests for class Factorial_ESTest_scaffolding
+* Test criteria:
+  - Line Coverage
+  - Branch Coverage
+  - Exception
+  - Mutation testing (weak)
+  - Method-Output Coverage
+  - Top-Level Method Coverage
+  - No-Exception Top-Level Method Coverage
+  - Context Branch Coverage
+* Setting up search algorithm for whole suite generation
+[MASTER] 12:15:34.465 [pool-2-thread-1] WARN  TestSuiteSerialization - Cannot load tests because file does not exist: /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/.evosuite/evosuite-seeds/Factorial_ESTest_scaffolding.seed
+* Loaded 0 tests from /Users/Bardia/Documents/Amirkabir-University-of-Technology/Courses/CE431-ST/presentation/EvoExample/.evosuite/evosuite-seeds/Factorial_ESTest_scaffolding.seed
+* Total number of test goals: 
+  - Line 52
+  - Branch 8
+  - Exception 0
+  - MutationFactory 36
+  - Output 0
+  - Method 2
+  - MethodNoException 2
+  - CBranchFitnessFactory 8
+* Using seed 1684140329808
+* Starting evolution
